@@ -8,7 +8,7 @@ Either way they are all simple matrixes so will be an easy task to modify the co
 
 ### Commodore 64C
 ### Arduino Leonardo
-The Leonardo has built HID emulation. Other models such as the UNO [have](http://biosrhythm.com/?p=910) been used in the past but these are more difficult to implement, need extra hardware also.
+The Leonardo has built HID emulation. Other models which don't have that ability [have](http://biosrhythm.com/?p=910) been used in the past but those are more difficult to implement and need extra hardware also.
 ### Approx. 16 jumper wires
 ### Arduino IDE
 This is not the only IDE. VSCode can be used with the Arduino extension among other editors and IDE's.
